@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pulindu Seniya</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Hi there, I'm 
+  <span style="color:#6c63ff;">Pulindu Seniya</span>!
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6c63ff&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Open+Source+Enthusiast;Tech+Lover+%26+Innovator;Welcome+to+my+GitHub!+%F0%9F%8E%89" alt="Typing Animation">
+</p>
 <h3 align="center">Full-Stack Developer (BSc (Hons) in Information Technology Specialising in Software Engineering(Undergraduate))</h3>
 
 - 🔭 I’m currently working on **Client based Project**
