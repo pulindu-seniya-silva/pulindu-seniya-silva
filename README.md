@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pulindu Seniya</h1>
-<h3 align="center">Full-Stack Developer (Bachelor of Science (Honours) in Information Technology (U.G.) Specialized in Software Engineering)</h3>
+<h3 align="center">Full-Stack Developer (BSc (Hons) in Information Technology Specialising in Software Engineering(Undergraduate))</h3>
 
 - 🔭 I’m currently working on **Client based Project**
 
