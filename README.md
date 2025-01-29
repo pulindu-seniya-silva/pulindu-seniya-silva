@@ -4,7 +4,7 @@
   <span style="color:#6c63ff;">Pulindu Seniya</span>!
 </h2>
 
-<p align="center" style="margin-top: -8; margin-bottom: -8">
+<p align="center" style="margin-top: -8px; margin-bottom: -8px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6c63ff&center=true&vCenter=true&width=400&lines=Software+Engineering+Student;Tech+Lover+%26+Innovator;Welcome+to+my+GitHub!+%F0%9F%8E%89" alt="Typing Animation">
 </p>
 
