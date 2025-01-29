@@ -4,8 +4,8 @@
   <span style="color:#6c63ff;">Pulindu Seniya</span>!
 </h2>
 
-<p align="center" style="margin-top: 0; margin-bottom: 0">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6c63ff&center=true&vCenter=true&width=400&lines=Software+Engineering+Student;Tech+Lover+%26+Innovator;Welcome+to+my+GitHub!+%F0%9F%8E%89" alt="Typing Animation">
+<p align="center" ">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6c63ff&center=true&vCenter=true&width=400&lines=Software+Engineering+Student;Tech+Lover+%26+Innovator;Welcome+to+my+GitHub!+%F0%9F%8E%89" alt="Typing Animation" style="margin-top: 2; margin-bottom: 2>
 </p>
 
 <h4 align="center" style="margin-top:0" >Full-Stack Developer (BSc (Hons) in Information Technology Specialising in Software Engineering(Undergraduate))</h4>
